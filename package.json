@@ -1,0 +1,17 @@
+{
+  "name": "linked_lists",
+  "version": "1.0.0",
+  "description": "A linked list data structure in Javascript",
+  "keywords": [
+    "linked_list",
+    "list",
+    "data_structure"
+  ],
+  "license": "ISC",
+  "author": "peppegiu",
+  "type": "module",
+  "main": "linked_list.js",
+  "scripts": {
+    "test": "jest"
+  }
+}
